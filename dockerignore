@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Git-related files
+.git/
+.gitignore
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.cache
+
+# Build outputs
+dist/
+build/
+
+# Docker-specific files
+docker-compose.override.yml
+
